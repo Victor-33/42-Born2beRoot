@@ -25,7 +25,7 @@
 ## Installation
 To install Debian version 11, I followed the tutorial by [Youssef Oussama] (https://github.com/ucefooo/born2beroot), a student at 42 École [here](https://www.youtube.com/watch?v=OQEdjt38ZJA).
 
-[Download:] (https://www.debian.org/download)
+[Download](https://www.debian.org/download).
 
 ## *Sudo*
 
@@ -300,4 +300,4 @@ Check *root*'s scheduled *cron* jobs via `sudo crontab -u root -l`.
 ```
 $ sudo crontab -u root -l
 ```
-The mandatory part is all here :) To setup the bonus part I recommend visit this repository: [mcombeau] (https://github.com/mcombeau/Born2beroot/blob/main/guide/bonus_debian.md)
+The mandatory part is all here :) To setup the bonus part I recommend visit this repository: https://github.com/mcombeau/Born2beroot/blob/main/guide/bonus_debian.md
