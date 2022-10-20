@@ -88,13 +88,15 @@ Put the user name again
 
 
 
-13 Ahora debemos introducir la contraseña de nuestro nuevo usuario. Como la anterior , repetiremos el proceso para comprobar que no la hayas escrito mal y tambien es importante que la guardes porque le daremos uso más adelante.
+13 Now we enter the password of our new user. Like the previous one, we will repeat the process to verify that you have not written it wrong and it is also important that you save it because we will use it later.
 
-<img width="790" alt="Captura de pantalla 2022-07-13 a las 19 30 08" src="https://user-images.githubusercontent.com/66915274/178794862-94de8c7a-282e-4a83-9903-d3b8439122ea.png">
+<img width="790" alt="Captura de pantalla 2022-07-13 a las 19 30 08" src="https://user-images.githubusercontent.com/93587419/196961936-292a40df-4063-4b5a-9952-a075b9c79dcb.png">
 
-14 Seleccionamos la hora de nuestra ubicación.
 
-<img width="796" alt="Captura de pantalla 2022-07-13 a las 19 31 41" src="https://user-images.githubusercontent.com/66915274/178795105-956854e1-deff-4851-8eba-26cdefb1e06f.png">
+14 Select the time of our location.
+
+<img width="796" alt="Captura de pantalla 2022-07-13 a las 19 31 41" src="https://user-images.githubusercontent.com/93587419/196962237-e09fc8d3-77ac-48ce-af9b-65125140237b.png">
+
 
 15 We will choose the third option ```Guied - use entire disk and set up encrypted LVM``` since the subject tells us that they must be encrypted partitions. ⚠️ if you want to make the bonus, you need to follow another tutorial (in the end end of the Readme.me file I will recommend a repository for this) ⚠️
 
