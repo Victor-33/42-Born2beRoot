@@ -48,7 +48,8 @@ Let's go setp by step :)
 
 5 We select the country. For me ```Brazil```.
 
-<img width="793" alt="Captura de pantalla 2022-07-13 a las 19 12 01" src="https://user-images.githubusercontent.com/66915274/178791824-7a34813c-eae9-4b5c-9873-cea158229e07.png">
+<img width="793" alt="Captura de pantalla 2022-07-13 a las 19 12 01" src="https://user-images.githubusercontent.com/93587419/196964034-c57da533-3a7e-4edc-873d-e1baad02b235.png">
+
 
 6 Select ```United States```.
 
@@ -118,7 +119,7 @@ Put the user name again
 
 <img width="782" alt="Captura de pantalla 2022-07-13 a las 19 46 45" src="https://user-images.githubusercontent.com/66915274/178797666-78cdf892-1a83-4c68-8f85-0d5440cd4854.png">
 
-20 De nuevo deberemos poner una contraseña, esta vez será la frase de encriptación. Como te he comentado previamente deberás repetir el proceso y la debes anotar ya que será importante en un futuro.
+20 Again we will have to put a password, this time it will be the encryption phrase. As I have previously mentioned, you must repeat the process and you must write it down since it will be important in the future.
 
 <img width="777" alt="Captura de pantalla 2022-07-13 a las 19 51 17" src="https://user-images.githubusercontent.com/66915274/178798491-4c9b4a0c-d698-47c7-9579-10b16aa47275.png">
 
@@ -134,7 +135,7 @@ Put the user name again
 
 <img width="795" alt="Captura de pantalla 2022-07-13 a las 20 00 58" src="https://user-images.githubusercontent.com/66915274/178800331-4e9daf83-fe4e-47c0-9737-d1a89a10b3a8.png">
 
-24 Seleccionamos la opción ```No``` ya que no necesitamos paquetes adicionales. 
+24 Select the ```No``` option since we don't need additional packages. 
 
 <img width="770" alt="Captura de pantalla 2022-07-13 a las 20 05 42" src="https://user-images.githubusercontent.com/66915274/178801099-2dda24f5-0d46-4184-8c44-a8fe0bf46527.png">
 
@@ -146,7 +147,7 @@ Put the user name again
 
 <img width="797" alt="Captura de pantalla 2022-07-13 a las 20 17 24" src="https://user-images.githubusercontent.com/66915274/178803208-2969acae-3fa7-423e-8a3c-bb7c76eff824.png">
 
-27 We select the ```No``` option since we don't want developers to see our statistics even if they are anonymous.
+27 Select the ```No``` option since we don't want developers to see our statistics even if they are anonymous.
 
 <img width="796" alt="Captura de pantalla 2022-07-13 a las 20 21 54" src="https://user-images.githubusercontent.com/66915274/178803926-a4efbc70-f3e2-4e6c-9809-9152478d8237.png">
 
@@ -154,11 +155,11 @@ Put the user name again
 
 <img width="797" alt="Captura de pantalla 2022-07-13 a las 20 24 17" src="https://user-images.githubusercontent.com/66915274/178804377-e775b89e-93d4-482f-a4d0-0ef126f47719.png">
 
-29 We will select ```Yes``` to install [GRUB boot](https://en.wikipedia.org/wiki/GNU_GRUB) on the hard drive.
+29 Select ```Yes``` to install [GRUB boot](https://en.wikipedia.org/wiki/GNU_GRUB) on the hard drive.
 
 <img width="792" alt="Captura de pantalla 2022-07-13 a las 20 26 24" src="https://user-images.githubusercontent.com/66915274/178804771-ba16e0b7-9f06-4c5b-9451-0bfd65efd2bb.png">
 
-30 We will choose the device for the bootloader installation ```/dev/sda (ata_VBOX_HARDDISK)```.
+30 Choose the device for the bootloader installation ```/dev/sda (ata_VBOX_HARDDISK)```.
 
 <img width="792" alt="Captura de pantalla 2022-07-13 a las 20 35 46" src="https://user-images.githubusercontent.com/66915274/178806441-f1bf3159-4e09-4c9a-9102-b3261c9000d8.png">
 
