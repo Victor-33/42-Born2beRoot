@@ -23,9 +23,9 @@
     - [Setting Up a *cron* Job](#setting-up-a-cron-job)
 
 ## Installation
-To install Debian version 11, I followed the tutorial by [Youssef Oussama] (https://github.com/ucefooo/born2beroot), a student at 42 École [here](https://www.youtube.com/watch?v=OQEdjt38ZJA).
+To install Debian version 11, I followed the tutorial by [Youssef Oussama](https://github.com/ucefooo/born2beroot), a student at 42 École [here](https://www.youtube.com/watch?v=OQEdjt38ZJA).
 
-[Download](https://www.debian.org/download).
+[Download](https://www.debian.org/download)
 
 Let's go setp by step :)
 
@@ -43,7 +43,8 @@ Let's go setp by step :)
 
 4 As I have selected other, I must indicate my continent or region. In my case I will choose ```South America```. 
 
-<img width="797" alt="Captura de pantalla 2022-07-13 a las 19 09 58" src="https://user-images.githubusercontent.com/66915274/178791387-78171f90-2834-42ab-aedb-9cf900d0ecd5.png">
+<img width="797" alt="Captura de pantalla 2022-07-13 a las 19 09 58" src="https://user-images.githubusercontent.com/93587419/196958208-b3f248dd-6562-4c2b-9918-fc6a1b3b3483.png">
+
 
 5 We select the country. For me ```Brazil```.
 
