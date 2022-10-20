@@ -25,7 +25,7 @@
 ## Installation
 To install Debian version 11, I followed the tutorial by [Youssef Oussama](https://github.com/ucefooo/born2beroot), a student at 42 École [here](https://www.youtube.com/watch?v=OQEdjt38ZJA).
 
-[Download](https://www.debian.org/download)
+[Debian 11 Download](https://www.debian.org/download)
 
 Let's go setp by step :)
 
@@ -58,29 +58,34 @@ Let's go setp by step :)
 
 <img width="793" alt="Captura de pantalla 2022-07-13 a las 19 02 21" src="https://user-images.githubusercontent.com/66915274/178790230-d2571d4f-a546-4b43-bd44-c6a591d92d72.png">
 
-8 En este paso debemos elegir el ```Host Name``` de la máquina, el cual debe ser tu login seguido de 42. 
+8 In this step we must choose the ```Host Name``` of the machine, which must be your login.
 
-<img width="792" alt="Captura de pantalla 2022-07-13 a las 19 17 23" src="https://user-images.githubusercontent.com/66915274/178792607-1cc585eb-ae32-4b2c-97fd-4fcf5bad4262.png">
+<img width="792" alt="Captura de pantalla 2022-07-13 a las 19 17 23" src="https://user-images.githubusercontent.com/93587419/196958925-0372b8f1-a7ee-4435-9789-51da95b2dba4.png">
+
 
 9 We will leave this section empty since the subject does not mention anything of ```Domain name```.
 
 <img width="792" alt="Captura de pantalla 2022-07-13 a las 19 20 29" src="https://user-images.githubusercontent.com/66915274/178793113-b0934aac-fac4-4844-8412-aca124038fd0.png">
 
-10 Debemos introducir una contraseña para la cuenta de administración del sistema. Importante apuntarla o hacer una foto ya que le daremos uso. Si quieres ver la contraseña para asegurarte de que la has escrito correctamente debes tabular hasta llegar a la opción ```Show Password in Clear``` debes darle a la barra espaciadora y se mostrara la clave.
+10 We must enter a password for the system administration account. It is important to write it down or take a photo since we will use it. If you want to see the password to make sure that you have written it correctly, you must tab until you reach the ```Show Password in Clear``` option, you must press the space bar and the password will be displayed.
 
-<img width="794" alt="Captura de pantalla 2022-07-13 a las 19 21 29" src="https://user-images.githubusercontent.com/66915274/178793296-c2c3b6c5-9744-4ba8-ac32-8e3c21c44f9b.png">
+<img width="794" alt="Captura de pantalla 2022-07-13 a las 19 21 29" src="https://user-images.githubusercontent.com/93587419/196959268-c377f541-ac4b-497c-ab86-c2626ed9387f.png">
 
-11 Repetimos el proceso de nuevo para comprobar que no la hayamos escrito mal.
 
-<img width="796" alt="Captura de pantalla 2022-07-13 a las 19 24 53" src="https://user-images.githubusercontent.com/66915274/178793903-2ea7c623-7175-4c27-98bf-85c8c1b359db.png">
+11 Repeat the process
 
-12 Elegimos el nombre de nuestro nuevo usuario. Como indica el subject hay que crear un usuario adicional que no sea el root con nuestro login, por ese motivo llamaré ```gemartin``` a mi nuevo usuario.
+<img width="796" alt="Captura de pantalla 2022-07-13 a las 19 24 53" src="https://user-images.githubusercontent.com/93587419/196959430-e48cd897-c7dd-42b5-9942-9e717c43e328.png">
 
-<img width="794" alt="Captura de pantalla 2022-07-13 a las 19 26 20" src="https://user-images.githubusercontent.com/66915274/178794178-901f7951-a978-458d-a925-4586026784f7.png">
 
-Volvemos a poner el nombre de usuario.
+12 We choose the name of our new user. As the subject indicates, we must create an additional user that is not root with our login, for that reason I will call my new user ```gemartin```.
 
-![image](https://user-images.githubusercontent.com/66915274/182679675-4d3805a9-34c9-4ba3-9488-1a7fe30f2519.png)
+<img width="794" alt="Captura de pantalla 2022-07-13 a las 19 26 20" src="https://user-images.githubusercontent.com/93587419/196959794-807bf325-c152-42e3-bf78-20c5195f67db.png">
+
+
+Put the user name again
+
+![6](https://user-images.githubusercontent.com/93587419/196960124-405f5473-5cb2-453a-8f5d-20275d769aeb.png)
+
 
 
 13 Ahora debemos introducir la contraseña de nuestro nuevo usuario. Como la anterior , repetiremos el proceso para comprobar que no la hayas escrito mal y tambien es importante que la guardes porque le daremos uso más adelante.
